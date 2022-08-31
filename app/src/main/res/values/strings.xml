@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dochome</string>
+    <string name="nombre">DocHome</string>
+    <string name="acpetar">Aceptar</string>
+    <string name="ingresotros">Ingresar con google</string>
+    <string name="email">Correo Electronico</string>
+    <string name="contraseña">Constraseña</string>
+</resources>
